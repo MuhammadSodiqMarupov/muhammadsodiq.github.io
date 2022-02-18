@@ -1,0 +1,88 @@
+.header {
+	float: right;
+}
+.netflix {
+	position: relative;
+	float: left;
+	right: 1050px;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.select-category {
+	padding: 8px;
+	position: relative;
+	right: 100px;
+	color: white;
+	background: #404040;
+	font-family: sans-serif;
+}
+.sing-in {
+	position: relative;
+	right: 50px;
+	color: white;
+	padding: 8px;
+	background: #e50914;
+	cursor: pointer;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-size: 18px;
+}
+h1 {
+	font-size: 50px;
+	width: 500px;
+	position: relative;
+	left: 450px;
+	color: white;
+	top: 250px;
+	text-align: center;
+}
+h2 {
+	width: 650px;
+	color: white;
+	font-size: 29px;
+	position: relative;
+	left: 390px;
+	top: 270px;
+	text-align: center;
+}
+h3 {
+	width: 650px;
+	font-size: 19px;
+	color: white;
+	position: relative;
+	left: 390px;
+	top: 270px;
+	text-align: center;
+}
+.smotret {
+	text-decoration: none;
+	color: white;
+	padding: 17.5px;
+	cursor: pointer;
+	border: 1px solid white;
+	background: #e50419;
+	position: relative;
+	top: 300px;
+	left:416px;
+}
+.search {
+	padding: 25px;
+	background: white;
+	position: relative;
+	width: 350px;
+	border: 1px solid white;
+	height: 30px;
+	top: 300px;
+	left:420px;
+}
+.main_section{
+	height: 650px;	
+	background: url(https://avatars.mds.yandex.net/i?id=d36b4968e17d08fb6a7622ff69cf8db0-5859076-images-thumbs&n=13);
+	opacity: 80%b  ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
